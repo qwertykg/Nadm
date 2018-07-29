@@ -1,0 +1,27 @@
+{
+  "name": "notadataminer",
+  "version": "1.0.0",
+  "description": "NADM is not a data miner",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/qwertykg/Nadm.git"
+  },
+  "keywords": [
+    "Data",
+    "Miner"
+  ],
+  "author": "not qwerykg",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/qwertykg/Nadm/issues"
+  },
+  "homepage": "https://github.com/qwertykg/Nadm#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "puppeteer": "^1.6.1"
+  }
+}
